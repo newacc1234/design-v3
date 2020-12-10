@@ -16,7 +16,7 @@ Kursmoment 1
 
 *   Har du några förutfattade meningar, eller kanske etablerad övertygelse, inom design och användbarhet för webben?
 
-    Som jag förstör det så kan det handla om vilka färger man använder, att vissa typsnitt kan vara lättare att läsa och att navigering ska fungera bra.
+    Som jag förstår det så kan det handla om vilka färger man använder, att vissa typsnitt kan vara lättare att läsa och att navigering ska fungera bra.
 
 *   Hur kändes det att göra din egna layout och styla den? Gick det bra?
 
